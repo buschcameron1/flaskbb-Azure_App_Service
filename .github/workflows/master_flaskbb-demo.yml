@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'flaskbb-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E698B8D60CC74095AB9EA488CE8CD064 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B53C5AF915D40B9A6683E4ACD0CF3C9 }}
