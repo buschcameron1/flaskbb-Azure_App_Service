@@ -133,7 +133,6 @@ tags
 *.cfg
 *.rdb
 *.db
-*.sqlite
 flaskbb/static/emoji/*
 whoosh_index
 .sass-cache
