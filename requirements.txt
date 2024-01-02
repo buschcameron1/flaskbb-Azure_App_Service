@@ -61,4 +61,3 @@ Werkzeug==2.1.2
 Whoosh==2.7.4
 WTForms==3.0.1
 WTForms-SQLAlchemy==0.3
--e .
